@@ -16,5 +16,8 @@ BEGIN
 	SET NOCOUNT ON;
 
     select * from [tSQLt].[TestMessage]
+    select name from tSQLt.TestClasses
+    
+    
 END
 GO
