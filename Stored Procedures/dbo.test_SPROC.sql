@@ -18,8 +18,8 @@ BEGIN
     select * from [tSQLt].[TestMessage]
     select name from tSQLt.TestClasses
 
---This is a test comment
+
     
-    --This is a test comment from GitHub.com
+
 END
 GO
